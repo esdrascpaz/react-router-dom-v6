@@ -1,0 +1,12 @@
+#root {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  height: 100vh;
+}
+
+nav a {
+  margin: 0 7px;
+}
