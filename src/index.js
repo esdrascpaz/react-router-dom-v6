@@ -8,7 +8,7 @@ import reportWebVitals from './reportWebVitals';
 import { BrowserRouter } from 'react-router-dom'
 
 ReactDOM.render(
-  // Encapsular o App com o BrowserRouter
+  // Encapsular/envolver o App com o BrowserRouter
   <BrowserRouter>
     <App />
   </BrowserRouter>,
